@@ -1,0 +1,23 @@
+# Core
+opencv-python==4.9.0.80
+numpy==1.26.4
+matplotlib==3.8.4
+Pillow==10.3.0
+
+# Video download
+yt-dlp==2024.4.9
+
+# Segmentation model (uses a pretrained model — no training needed for first version)
+torch==2.2.2
+torchvision==0.17.2
+
+# Curve fitting & math
+scipy==1.13.0
+scikit-learn==1.4.2
+
+# Interactive visualization
+plotly==5.21.0
+
+# Notebooks (optional but recommended)
+jupyter==1.0.0
+ipykernel==6.29.4
