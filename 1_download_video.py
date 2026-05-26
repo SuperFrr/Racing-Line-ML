@@ -6,7 +6,7 @@ import yt_dlp
 import os
 
 # ── CONFIG ──────────────────────────────────────────────────────────────────
-VIDEO_URL   = "https://youtu.be/wgZdpFRpZCs?si=9mTHsml9VoXfj_rJ"
+VIDEO_URL   = "https://youtu.be/X7_5VQWTj6s?si=F-pTxKfDGAOEQ2AF"
 OUTPUT_PATH = "data/video.mp4"
 # ────────────────────────────────────────────────────────────────────────────
 
